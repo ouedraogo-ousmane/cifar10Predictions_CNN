@@ -28,7 +28,7 @@ Le modèle a été évalué sur l'ensemble de test pour mesurer ses performances
 
 ## Résultats
 
-Le modèle a atteint une précision de X% sur l'ensemble de test, démontrant son efficacité dans la classification des images de 10 catégories différentes.
+Le modèle a atteint une précision de 87% sur l'ensemble de test, démontrant son efficacité dans la classification des images de 10 catégories différentes.
 
 ## Remarques
 
